@@ -3,4 +3,4 @@
 - ❤️‍🔥 Passionate about solving problems using technology
 - 📚 Lifelong Learner
 - 💬 Ask me about anything
-- 📫 How to reach me: domenic.colandrea@gmail.com on Email
+- 📫 How to reach me: domenic.colandrea@gmail.com
