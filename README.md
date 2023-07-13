@@ -1,4 +1,4 @@
-- 👨‍💻 Software Engineer currently working on Real Assets
+- 👨‍💻 Currently working on Real Assets
 - ⚡ Specializing in full-stack software development
 - ❤️‍🔥 Passionate about solving problems using technology
 - 📚 Lifelong Learner
