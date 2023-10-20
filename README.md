@@ -1,7 +1,7 @@
 - 👨‍💻 Currently working on Real Assets
 - ⚡ Specializing in full-stack software engineering
 - ❤️‍🔥 Passionate about solving problems using technology
-- 🔭 Interested in AI/ML with a particular focus on LLMs and Deep Learning
+- 🔭 Interested in AI/ML
 - 📚 Lifelong Learner
 - 💬 Ask me about anything
 - 📫 How to reach me: domenic.colandrea@gmail.com
