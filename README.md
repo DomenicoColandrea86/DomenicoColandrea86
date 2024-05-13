@@ -1,5 +1,5 @@
 - 👨‍💻 Currently working on Real Assets
-- ⚡ Specializing in full-stack software engineering
+- ⚡ Specializing in Full-stack Software Development, ML and applied AI
 - ❤️‍🔥 Passionate about solving problems using technology
 - 📚 Lifelong Learner
 - 💬 Ask me about anything
