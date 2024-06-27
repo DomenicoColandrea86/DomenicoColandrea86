@@ -1,4 +1,4 @@
-- 👨‍💻 Currently working on Real Assets
+- 👨‍💻 Currently working at MSCI
 - ⚡ Specializing in full-stack software development, machine learning, and applied AI
 - ❤️‍🔥 Passionate about solving problems using technology
 - 📚 Lifelong Learner
