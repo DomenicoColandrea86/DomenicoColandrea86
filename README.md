@@ -1,5 +1,5 @@
 - 👨‍💻 Currently working at MSCI
-- ⚡ Specializing in full-stack development, machine learning, and applied AI
+- ⚡ Specializing in full-stack development, machine learning, and applied generative AI
 - ❤️‍🔥 Passionate about solving problems using technology
 - 📚 Lifelong Learner
 - 💬 Ask me about anything
